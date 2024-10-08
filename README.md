@@ -8,7 +8,7 @@
 
 <hr/>
 
-**Qrized is a feature-rich and user-friendly QR code scanner Android application developed using Kotlin and XML. It not only scans QR codes efficiently but also provides seamless sharing options to various platforms, ensuring a smooth and interactive user experience. With its clean and modern UI, Qrized stands out as a reliable tool for all your QR code scanning and sharing needs.**
+**Qrized is a feature-rich and user-friendly QR code generator Android application developed using Kotlin and XML. It not only scans QR codes efficiently but also provides seamless sharing options to various platforms, ensuring a smooth and interactive user experience. With its clean and modern UI, Qrized stands out as a reliable tool for all your QR code scanning and sharing needs.**
 
 
 ## Features
